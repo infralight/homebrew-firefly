@@ -1,9 +1,9 @@
 class Flycli < Formula
   desc "Firefly's command line utility and terminal user interface"
   homepage "https://www.gofirefly.io/"
-  url "https://github.com/infralight/cli/archive/refs/tags/v1.0.0.tar.gz"
-  version "v1.0.0"
-  sha256 "c4eb89ce242ed2e765a633bdc7bda3c882f30d1ace52611e220a305232b48f18"
+  url "https://github.com/infralight/cli/archive/refs/tags/v1.0.1.tar.gz"
+  version "v1.0.1"
+  sha256 "10cd0d45dd2d8f9493a69e5ccba471f8c363148e6b231179a710015857c8c5ff"
   license "Apache License 2.0"
 
   depends_on "go" => :build
